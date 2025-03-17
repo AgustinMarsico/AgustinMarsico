@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin Marsico</h1>
-<h4 align="left">I'm a computer systems engineering student as well as teacher in Universidad ORT Uruguay.</h4>
+<h4 align="left">I'm a computer systems engineering student.</h4>
 <h4 align="left">I'm passionate about technology, open source, and the inner workings of the systems that surround us.</h4>
 
 <h4 align="left">Connect with me:</h4>
